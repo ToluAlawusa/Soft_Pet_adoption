@@ -1,0 +1,6 @@
+framework module Pods_SoftPet {
+  umbrella header "Pods-SoftPet-umbrella.h"
+
+  export *
+  module * { export * }
+}

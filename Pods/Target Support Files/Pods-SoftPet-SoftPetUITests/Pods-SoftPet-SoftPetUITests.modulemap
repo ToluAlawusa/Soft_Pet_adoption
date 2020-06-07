@@ -1,0 +1,6 @@
+framework module Pods_SoftPet_SoftPetUITests {
+  umbrella header "Pods-SoftPet-SoftPetUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
